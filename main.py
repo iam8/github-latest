@@ -13,7 +13,6 @@ The GitHub username is entered via the command line, as below:
     > python main.py username
 """
 
-import json
 import sys
 
 import requests
